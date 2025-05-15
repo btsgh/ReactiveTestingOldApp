@@ -1,0 +1,24 @@
+{
+  "gitSyncId": "6825c7782fb9f24b943c3f62_08981099-eb94-45d3-8c2e-71513b1f09f4",
+  "id": "Packages_UsersMod11",
+  "moduleUUID": "8244cc1d-b846-463c-a87f-ac5b73115e58",
+  "packageUUID": "5cd7d13a-1f09-44be-80df-014565b23adb",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "input1": "10"
+    },
+    "moduleInputs": {
+      "ptlphldonf": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "10",
+        "id": "ptlphldonf",
+        "label": "input1",
+        "propertyName": "inputs.input1"
+      }
+    },
+    "name": "UsersMod11",
+    "pageId": "Packages"
+  }
+}
