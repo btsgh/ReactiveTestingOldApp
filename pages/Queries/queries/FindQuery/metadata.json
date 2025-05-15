@@ -109,9 +109,9 @@
       "name": "movies",
       "pluginId": "mongo-plugin"
     },
-    "executeOnLoad": true,
     "name": "FindQuery",
     "pageId": "Queries",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": true
   }
 }
