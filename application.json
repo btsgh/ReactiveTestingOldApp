@@ -18,6 +18,10 @@
   "icon": "rocket",
   "pages": [
     {
+      "id": "Dashboard",
+      "isDefault": false
+    },
+    {
       "id": "Queries",
       "isDefault": true
     },
